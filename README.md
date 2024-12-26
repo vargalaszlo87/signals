@@ -13,7 +13,7 @@ $$frequency_{modulator} = 5kHz$$
 
 $$Modulation_{depth} = 70$$
 
-$$T = 2 \(count of period\)$$
+$$T = 2$$
 
 $$V_{peak-max} = 170mV$$
 
