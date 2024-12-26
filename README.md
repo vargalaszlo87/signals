@@ -9,9 +9,9 @@ Diferent types signals in CSV for simualtig or measuring. For example for PicoSc
 
 $$f_{carrier} = 540kHz$$
 
-$$f_{modulator} = 540kHz$$
+$$f_{modulator} = 5kHz$$
 
-$$M_{depth} = 70%$$
+$$M_{depth} = 70\%$$
 
 $$T = 2$$
 
