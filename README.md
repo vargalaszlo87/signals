@@ -11,7 +11,7 @@ $$frequency_{carrier} = 540kHz$$
 
 $$frequency_{modulator} = 5kHz$$
 
-$$Modulation_{depth} = 70$$
+$$Modulation_{depth} = 0.7$$
 
 $$T = 2$$
 
