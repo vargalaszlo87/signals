@@ -15,7 +15,9 @@ $$M_{depth} = 70%$$
 
 $$T = 2$$
 
-$$V_{peak-max} = 170mV
+$$V_{peak-max} = 170mV$$
+
+
 
 
 
