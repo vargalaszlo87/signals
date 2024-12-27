@@ -21,7 +21,11 @@ $$t = 400uS$$
 
 $$dt = 75.13ns$$
 
+**AM-signal-fc=540kHz-fm=5kHz-M=0.7-T=2-Vpmax=170mV-t.csv** - same as the previous one, only without time data
+
 ![image](https://github.com/user-attachments/assets/73a8ead0-a8d7-44b2-8763-5fed594b910b)
+
+
 
 
 
